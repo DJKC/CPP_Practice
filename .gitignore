@@ -1,0 +1,9 @@
+**/build/Debug/GNU-MacOSX/**
+**/dist/Debug/GNU-MacOSX/**
+**/nbproject/**
+*.inc
+Makefile
+!*.cpp
+!.h
+!.txt
+!.inf
